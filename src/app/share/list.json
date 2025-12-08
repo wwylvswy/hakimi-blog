@@ -52,58 +52,6 @@
 		"stars": 3
 	},
 	{
-		"name": "Loadership",
-		"url": "https://www.loadership.com/",
-		"logo": "https://www.loadership.com/loadership_logo_round.svg",
-		"description": "13种 Loader 样式，在线调整使用。在 AI 时代可能意义小很多了。",
-		"tags": [
-			"CSS",
-			"Github"
-		],
-		"stars": 3
-	},
-	{
-		"name": "CSS Buttons",
-		"url": "https://cssbuttons.io/",
-		"logo": "/images/share/2b8118a3645967ee.svg",
-		"description": "有不少按钮样式。跟 Neumorphism 有一些关系。",
-		"tags": [
-			"CSS"
-		],
-		"stars": 2
-	},
-	{
-		"name": "Uiverse",
-		"url": "https://uiverse.io/",
-		"logo": "/images/share/5e7b29cb1a84be80.png",
-		"description": "不可错过的参考库，有很多交互效果，包括热门的 Button、Loader 设计，内容丰富，还在不断更新。",
-		"tags": [
-			"CSS"
-		],
-		"stars": 4
-	},
-	{
-		"name": "Magic UI",
-		"url": "https://magicui.design/",
-		"logo": "https://magicui.design/favicon.ico",
-		"description": "shadcn/ui 伴生库，有很多实用设计。取用也很方便，可以自己复制独立的代码。",
-		"tags": [
-			"组件",
-			"Github"
-		],
-		"stars": 4
-	},
-	{
-		"name": "Ai lman",
-		"url": "https://aliimam.in/docs/backgrounds/shader-rgb",
-		"logo": "https://aliimam.in/_next/image?url=%2Fai-logo-black.png&w=128&q=75",
-		"description": "类 Magic UI，但是感觉差点意思。可作为看完 Magic 意犹未尽时闲看。",
-		"tags": [
-			"组件"
-		],
-		"stars": 3
-	},
-	{
 		"name": "Awwwards",
 		"url": "https://www.awwwards.com/",
 		"logo": "https://assets.awwwards.com/assets/images/favicon.svg",
@@ -122,36 +70,6 @@
 			"网站集"
 		],
 		"stars": 3
-	},
-	{
-		"name": "404s.design",
-		"logo": "/images/share/5c9a8b7deb717c5f.svg",
-		"url": "https://www.404s.design/",
-		"description": "收集 404 设计的网站，无聊的时候可以看下。",
-		"tags": [
-			"网站集"
-		],
-		"stars": 3
-	},
-	{
-		"name": "Igloo Inc.",
-		"logo": "https://www.igloo.inc/assets/favicon32-af94112f.png",
-		"url": "https://www.igloo.inc/",
-		"description": "abeto 作品，非常酷炫",
-		"tags": [
-			"3D"
-		],
-		"stars": 4
-	},
-	{
-		"name": "abeto 官网",
-		"logo": "https://abeto.co/assets/favicon32-11fb90a3.png",
-		"url": "https://abeto.co/",
-		"description": "无限绽开的花，飘荡的树叶，复古风格化",
-		"tags": [
-			"3D"
-		],
-		"stars": 4
 	},
 	{
 		"name": "Messenger",
@@ -182,26 +100,6 @@
 			"3D"
 		],
 		"stars": 5
-	},
-	{
-		"name": "Making Software",
-		"logo": "https://www.makingsoftware.com/favicon.ico",
-		"url": "https://www.makingsoftware.com/",
-		"description": "面向软件设计和开发人员的参考手册。样式很棒的学习网站。",
-		"tags": [
-			"学习"
-		],
-		"stars": 4
-	},
-	{
-		"name": "Ease 函数参考",
-		"logo": "https://easings.net/96.8aa68ac4.png",
-		"url": "https://easings.net/",
-		"description": "当你在调整动画节奏时，这个 ease 表能帮助直观感受 ease 表现出的效果",
-		"tags": [
-			"Github"
-		],
-		"stars": 3
 	},
 	{
 		"name": "Isocons",
