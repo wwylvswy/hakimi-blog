@@ -10,5 +10,5 @@ export const GITHUB_CONFIG = {
 	OWNER: process.env.NEXT_PUBLIC_GITHUB_OWNER || 'wwylvswy',
 	REPO: process.env.NEXT_PUBLIC_GITHUB_REPO || 'hakimi-blog',
 	BRANCH: process.env.NEXT_PUBLIC_GITHUB_BRANCH || 'main',
-	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || '-'
+	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || '2419520'
 } as const
