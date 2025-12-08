@@ -54,6 +54,13 @@
 			"value": "wuweeye@163.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1765172687164",
+			"type": "zhihu",
+			"value": "https://blog.csdn.net/m0_46248770",
+			"label": "知乎",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false
