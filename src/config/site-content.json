@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
+		"title": "Hakimi",
 		"description": "YYsuni 的个人博客，记录前端开发、探索笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"username": "wuweeye"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -30,9 +30,13 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "9bdd5af8c9b3f898",
+			"url": "/images/art/9bdd5af8c9b3f898.png"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "9bdd5af8c9b3f898",
 	"backgroundImages": [
 		{
 			"id": "",
