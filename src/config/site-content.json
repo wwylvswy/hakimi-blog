@@ -42,13 +42,6 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/wwylvswy",
-			"label": "Github",
-			"order": 2
-		},
-		{
 			"id": "email",
 			"type": "email",
 			"value": "wuweeye@163.com",
@@ -57,9 +50,16 @@
 		},
 		{
 			"id": "button-1765172687164",
-			"type": "zhihu",
-			"value": "https://blog.csdn.net/m0_46248770",
-			"label": "知乎",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/474686601?spm_id_from=333.1007.0.0",
+			"label": "哔哩哔哩",
+			"order": 2
+		},
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/wwylvswy",
+			"label": "Github",
 			"order": 3
 		}
 	],
