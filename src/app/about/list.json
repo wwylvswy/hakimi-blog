@@ -1,5 +1,5 @@
 {
-	"title": "关于本站",
-	"description": "一个基于 Github 的现代化博客系统",
-	"content": "📦网站基于 Github 仓库完全存储，所有内容版本可控\n\n🚀无后端，无 serverless function，纯静态站点\n\n✏️文章通过可视化 UI 直接编辑并提交到 Github 仓库\n\n🔑所有用户都可以编辑，提交需要 Owner 的 Private Key\n\n## 技术栈\n\n- Next.js\n- React\n- TypeScript\n- Tailwind CSS\n- Motion\n- Github API"
+	"title": "欢迎光临",
+	"description": "寻穷天下无名水",
+	"content": "我是一名充满热情的Java后端开发工程师，专注于软件开发技术的探索与应用。\n\n希望通过代码创造有意义的产品，我相信技术的力量能够改变世界。\n\n这里是我的博客空间，希望能通过后端 Blog 的方式，记录并呈现出美好的瞬间。"
 }
