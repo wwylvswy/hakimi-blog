@@ -1,14 +1,8 @@
 {
 	"meta": {
-<<<<<<< HEAD
 		"title": "Hakimi",
 		"description": "Hakimi 的个人博客，记录后端开发、探索笔记。",
 		"username": "Hakimi"
-=======
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
->>>>>>> upstream/main
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -73,9 +67,6 @@
 			"order": 3
 		}
 	],
-<<<<<<< HEAD
-	"clockShowSeconds": false
-=======
 	"clockShowSeconds": false,
 	"summaryInContent": false,
 	"isCachePem": false,
@@ -83,5 +74,4 @@
 	"enableCategories": true,
 	"currentHatIndex": 3,
 	"hatFlipped": false
->>>>>>> upstream/main
 }
