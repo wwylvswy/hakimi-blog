@@ -46,13 +46,6 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "email",
-			"type": "email",
-			"value": "wuweeye@163.com",
-			"label": "",
-			"order": 1
-		},
-		{
 			"id": "button-1765172687164",
 			"type": "bilibili",
 			"value": "https://space.bilibili.com/474686601?spm_id_from=333.1007.0.0",
