@@ -65,6 +65,13 @@
 			"value": "https://github.com/wwylvswy",
 			"label": "Github",
 			"order": 3
+		},
+		{
+			"id": "button-1765727354515",
+			"type": "link",
+			"value": "https://blog.csdn.net/m0_46248770",
+			"label": "CSDN",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
