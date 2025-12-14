@@ -23,6 +23,7 @@ type SocialButtonType =
 	| 'zhihu'
 	| 'bilibili'
 	| 'qq'
+	// | 'csdn'
 
 interface SocialButtonConfig {
 	id: string
@@ -167,7 +168,8 @@ export function SocialButtonsSection({ formData, setFormData, socialButtonImageU
 								{ value: 'zhihu', label: '知乎' },
 								{ value: 'bilibili', label: '哔哩哔哩' },
 								{ value: 'qq', label: 'QQ' },
-								{ value: 'link', label: '链接' }
+								{ value: 'link', label: '链接' },
+								// { value: 'csdn', label: 'CSDN' }
 							]}
 						/>
 						{button.type === 'wechat' || button.type === 'qq' ? (
