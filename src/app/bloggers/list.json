@@ -40,5 +40,12 @@
 		"url": "https://blog.zhilu.site/",
 		"description": "棒棒的开源 blog 主，今天蹭了蹭他群友，🤣，给他多加一分🤣🤣🤣。",
 		"stars": 4
+	},
+	{
+		"name": "程序员大彬",
+		"avatar": "https://topjavaer.cn/logo.svg",
+		"url": "https://topjavaer.cn/",
+		"description": "整理了较为全面的Java后端编程常见面试题",
+		"stars": 4
 	}
 ]
