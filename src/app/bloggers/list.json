@@ -47,5 +47,12 @@
 		"url": "https://topjavaer.cn/",
 		"description": "整理了较为全面的Java后端编程常见面试题",
 		"stars": 4
+	},
+	{
+		"name": "Go语言教程",
+		"avatar": "https://go.mosong.cc/imggo.png",
+		"url": "https://go.mosong.cc/",
+		"description": "详细的文字版Go语言的入门教程",
+		"stars": 4
 	}
 ]
