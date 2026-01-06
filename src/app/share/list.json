@@ -130,5 +130,15 @@
 			"3D"
 		],
 		"stars": 3
+	},
+	{
+		"name": "DeepWiki",
+		"logo": "https://th.bing.com/th/id/ODF.iiW-e-FrtKFFnSZWtuPZiw?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2",
+		"url": "https://deepwiki.org/",
+		"description": "将github项目生成类似 Wikipedia 的文档页面",
+		"tags": [
+			"工具"
+		],
+		"stars": 4
 	}
 ]
